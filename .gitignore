@@ -11,8 +11,9 @@
 # production
 /build
 
-/firebase-config
-/mock-db
+# uncomment if for prod
+# /firebase-config
+# /mock-db
 
 # misc
 .DS_Store
