@@ -1,0 +1,13 @@
+/* #message-list {
+	position: relative;
+} */
+
+.main-container {
+	// full screen
+	height: 100vh;
+
+	display: flex;
+	flex-direction: column;
+
+	margin: 0 10px;
+}
